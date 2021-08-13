@@ -1,0 +1,6 @@
+Este codigo es para poder enviar y gestionar correos con PHP, depende de la configuracion hasta se puede usar con
+una cuenta de gamil pero haya que configurar
+
+Enviado por:
+Kevin Otoniel Lopéz Velásquez
+3090-16-17847
